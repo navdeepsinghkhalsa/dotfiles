@@ -1,0 +1,5 @@
+*~
+.DS_Store
+ionic.project
+node_modules/
+*.swp

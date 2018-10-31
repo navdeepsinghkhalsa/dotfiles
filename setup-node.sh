@@ -1,0 +1,1 @@
+npm i -g eslint htmlhint http-server typescript@next

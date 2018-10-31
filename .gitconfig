@@ -1,0 +1,10 @@
+[user]
+	name = Navdeep Singh
+	email = me@navdeepsingh.ca
+[core]
+	excludesfile = /Users/navdeepsingh/.gitignore_global
+	editor = /usr/bin/vim
+[push]
+	default = simple
+[commit]
+	template = /Users/navdeepsingh/.stCommitMsg
