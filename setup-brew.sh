@@ -31,4 +31,4 @@ brew cask install vlc
 
 # Fonts
 brew tap caskroom/fonts
-brew cask install font-fira-co
+brew cask install font-fira-code
