@@ -1,6 +1,4 @@
 # Preferences
-## Font rendering
-defaults write -g CGFontRenderingFontSmoothingDisabled -bool NO
 ## Finder
 defaults write com.apple.finder ShowHardDrivesOnDesktop -boolean true
 defaults write com.apple.finder ShowRecentTags -boolean false
