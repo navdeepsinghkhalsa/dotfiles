@@ -7,12 +7,7 @@ Before doing anything, please make sure you know what you are doing. Settings ap
 
   ```xcode-select --install```</li>
 
-  <li>Set up ssh key
-    <ul>
-      <li>Add to GitHub</li>
-      <li>Add to Bitbucket</li>
-    </ul>
-  </li>
+  <li>Set up ssh key and add to GitHub</li>
 
   <li>Install <a href="https://brew.sh">brew</a>
 
