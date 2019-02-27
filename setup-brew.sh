@@ -10,7 +10,7 @@ brew cask install appcleaner
 brew cask install authy
 brew cask install clipy
 brew cask install dash
-brew cask install db-browser-for-sqlite
+brew cask install docker
 brew cask install firefox
 brew cask install fork
 brew cask install google-chrome
@@ -21,13 +21,14 @@ brew cask install postman
 brew cask install realm-browser
 brew cask install sequel-pro
 brew cask install slack
-brew cask install telegram
+brew cask install spark
+brew cask install tableplus
+brew cask install telegram-desktop
 brew cask install the-unarchiver
 brew cask install tripmode
 brew cask install vanilla
 brew cask install viscosity
 brew cask install visual-studio-code
-brew cask install vlc
 
 # Fonts
 brew tap caskroom/fonts
