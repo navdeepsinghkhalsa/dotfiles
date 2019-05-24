@@ -1,6 +1,7 @@
 # Homebrew apps
 # CLI
 brew install node
+brew install ffmpeg # required for youtube-dl
 brew install youtube-dl
 
 # Applications
