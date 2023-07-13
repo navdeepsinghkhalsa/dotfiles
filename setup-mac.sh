@@ -18,7 +18,7 @@ defaults write com.apple.AppleMultitouchTrackpad TrackpadThreeFingerDrag -boolea
 defaults write com.apple.driver.AppleBluetoothMultitouch.trackpad Clicking -boolean true
 defaults write com.apple.driver.AppleBluetoothMultitouch.trackpad TrackpadThreeFingerDrag -boolean true
 ## Taskbar
-defaults write com.apple.menuextra.battery -string YES
+defaults -currentHost write com.apple.controlcenter.plist BatteryShowPercentage -bool true
 ## Terminal
 defaults write com.apple.Terminal "Default Window Settings" -string Pro
 defaults write com.apple.Terminal "Startup Window Settings" -string Pro
