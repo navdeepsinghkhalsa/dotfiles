@@ -11,7 +11,7 @@ Before doing anything, please make sure you know what you are doing. Settings ap
 
   <li>Install <a href="https://brew.sh">brew</a>
 
-  ```/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```</li>
+  ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```</li>
 
   <li>Clone repository to dotfiles directory in your home directory
 
