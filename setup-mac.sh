@@ -6,6 +6,7 @@ defaults write com.apple.finder SidebarDevicesSectionDisclosedState -boolean tru
 defaults write com.apple.finder _FXSortFoldersFirst -boolean true
 defaults write com.apple.finder FXPreferredViewStyle -string clmv
 defaults write com.apple.finder ShowStatusBar -boolean true
+defaults write com.apple.finder NewWindowTargetPath -string "file://${HOME}/"
 ## Dock
 defaults write com.apple.dock wvous-bl-corner -integer 5
 defaults write com.apple.dock wvous-bl-modifier -integer 0
