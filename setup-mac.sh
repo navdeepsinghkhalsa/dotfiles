@@ -7,11 +7,6 @@ defaults write com.apple.finder _FXSortFoldersFirst -boolean true
 defaults write com.apple.finder FXPreferredViewStyle -string clmv
 defaults write com.apple.finder ShowStatusBar -boolean true
 defaults write com.apple.finder NewWindowTargetPath -string "file://${HOME}/"
-## Dock
-defaults write com.apple.dock wvous-bl-corner -integer 5
-defaults write com.apple.dock wvous-bl-modifier -integer 0
-defaults write com.apple.dock wvous-br-corner -integer 5
-defaults write com.apple.dock wvous-br-modifier -integer 0
 ## Trackpad
 defaults write com.apple.AppleMultitouchTrackpad Clicking -boolean true
 defaults write com.apple.AppleMultitouchTrackpad TrackpadThreeFingerDrag -boolean true
