@@ -4,7 +4,6 @@ brew install node
 brew install ffmpeg # required for youtube-dl
 brew install youtube-dl
 brew install mas
-brew install dockutil
 
 # Applications
 brew install --cask 1password
