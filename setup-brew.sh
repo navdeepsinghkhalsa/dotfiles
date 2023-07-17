@@ -12,6 +12,6 @@ brew install --cask telegram
 brew install --cask visual-studio-code
 
 # Fonts
-brew tap caskroom/fonts
-brew cask install font-fira-code
-brew cask install font-awesome-terminal-fonts
+brew tap homebrew/cask-fonts
+brew install --cask font-fira-code
+# brew install --cask font-awesome-terminal-fonts
