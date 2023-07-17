@@ -17,6 +17,8 @@ defaults -currentHost write com.apple.controlcenter.plist BatteryShowPercentage 
 ## Terminal
 defaults write com.apple.Terminal "Default Window Settings" -string Pro
 defaults write com.apple.Terminal "Startup Window Settings" -string Pro
+## Dock
+defaults write com.apple.dock persistent-apps -array ""
 
 killall Dock
 killall Finder
