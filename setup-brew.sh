@@ -3,6 +3,7 @@
 brew install node
 brew install ffmpeg # required for youtube-dl
 brew install youtube-dl
+brew install mas
 
 # Applications
 brew install --cask 1password
