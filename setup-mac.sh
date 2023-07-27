@@ -19,6 +19,11 @@ defaults write com.apple.Terminal "Default Window Settings" -string Pro
 defaults write com.apple.Terminal "Startup Window Settings" -string Pro
 ## Dock
 defaults write com.apple.dock persistent-apps -array ""
+## Safari
+### Terminal needs Full Disk Access Permission in Privacy & Security
+### Safari needs to be closed
+defaults write com.apple.Safari.SandboxBroker ShowDevelopMenu -bool true
+defaults write com.apple.Safari IncludeDevelopMenu -bool true
 
 killall Dock
 killall Finder
