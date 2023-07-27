@@ -33,4 +33,4 @@ echo "- - - - - - - - - -"
 echo ""
 
 # initialize new settings
-source ~/.bash_profile
+source ~/.zshrc
