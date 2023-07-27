@@ -1,6 +1,6 @@
 # Variables
 dir=~/dotfiles
-files=".bash_profile .gitconfig .gitignore_global"
+files=".zshrc .gitconfig .gitignore_global"
 
 # Lets make it look nicer
 echo ""
